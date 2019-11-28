@@ -7,3 +7,4 @@ Original implemenation in Keras is [here](https://datascienceschool.net/view-not
 # TO DO
 * indentation
 * pass shape in better way from encoder to decoder
+* better evaluation
