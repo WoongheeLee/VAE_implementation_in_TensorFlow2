@@ -6,4 +6,3 @@ Original implemenation in Keras is [here](https://datascienceschool.net/view-not
 
 # TO DO
 * pass shape in better way from encoder to decoder
-* It requires more training.
